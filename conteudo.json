@@ -1,0 +1,125 @@
+{
+  "previa": "Já anota na agenda: 5 de outubro, às 17h30, uma grande oportunidade de captar investimento e se conectar com uma das big four consultorias do mundo.",
+  "artigoDestaque": {
+    "numeroEdicao": "6",
+    "mensagemSpam": "Não queremos ir para o spam! =( selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/Imagem_Destaque.png",
+    "alt": "MAGEM Abertura da Chamada WE Impact + KPMG",
+    "titulo": "Guarde esta data: 5 de outubro de 2021",
+    "texto": [
+      "Lembra que na WE Impact News #4 anunciamos o investimento de R$ 1 milhão da KPMG na WE Impact? Chegou a hora de destinar esse capital a startups fundadas e lideradas por mulheres!",
+      "No dia <strong>5 de outubro</strong>, abriremos a primeira <strong>chamada WE Impact + KPMG</strong> em um evento online, aberto ao público - e convidamos você a aproveitar essa grande oportunidade (<u>e também compartilhá-la com a sua rede de contatos!</u>).",
+      "Além do investimento financeiro, se tornar uma investida WE Impact significará ter conexão direta com <strong>uma das maiores empresas de auditoria e consultoria do mundo</strong> (e seus especialistas) para desenvolver seu produto e fechar negócios.",
+      "Para potencializar essa conexão, buscaremos startups que tenham <strong>sinergia</strong> com a KPMG, com as seguintes características:",
+      "AAAAAAAAAAAAA ADICIONAR LISTA !!!"
+    ],
+    "linkBotao": "https://conteudo.weimpact.tech/abertura-chamada-kpmg",
+    "botao": "Quero participar"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "Networking: a importância das conexões para o empreendedorismo",
+    "img": "./img/Foto_WIN.png",
+    "alt": "FOTO Laís Macedo, Lide Futuro",
+    "linkedinAutora": "https://br.linkedin.com/in/naravazguimaraes",
+    "nomeAutora": "Nome JSON",
+    "descricaoAutora": "descrição JSON",
+    "texto": [
+      "O networking é uma ferramenta essencial para quem deseja trabalhar o marketing pessoal, ter acesso a oportunidades, informações e construir uma rede de apoio durante sua jornada empreendedora.",
+      "Mesmo conhecendo seus inúmeros benefícios, muitas pessoas ainda possuem dificuldade em fazer contatos e gerir sua rede.",
+      "Por isso, convidamos a presidente do LIDE Futuro (grupo de networking de empreendedores e líderes), Laís Macedo, para compartilhar dicas valiosas que vão te ajudar durante esse processo - incluindo como lidar com a síndrome da impostora e outros obstáculos enfrentados por mulheres na hora de fazer netowrking."
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/networking-importancia-das-conexoes",
+    "botao": "Clique para ler a entrevista"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Título JSON",
+    "img": "./img/Imagem_DiversidadenaPratica_N06.png",
+    "alt": "alt",
+    "texto": [
+      "Analisando 100 fundos de Venture Capital nos EUA, o relatório Diversity in U.S. Startups 2020 mostrou que os avanços em tornar essas empresas mais diversas no país não foram tantos quando gostaríamos nos últimos 8 anos.",
+      "A partir do estudo de mais de 3 mil empresas e cerca de 7,7 mil fundadores que participaram de mais de 4 mil rodadas, aqui estão alguns números levantados:"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": [
+      "A proporção de empresas fundadas somente por mulheres se manteve em torno de <strong>6%</strong> desde 2013 até 2019",
+      "Só <strong>3%</strong> das companhias avaliadas tinham pelo menos <strong>1 fundador negro<strong>, e apenas 1.7% do total dos fundadores eram negros – sendo a <strong>maioria homens</strong> (85%)",
+      "    E pouco mais de <strong>3%<strong> tinham pelo menos 1 fundador latino, com 1,3% de todos os fundadores se encaixando nesse grupo, no qual a <strong>participação feminina não chega a 7%</strong>"
+    ],
+    "linkBotao": "https://www.weimpact.tech/modelo-de-vendas-para-sua-startup/",
+    "botao": "botao JSON"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Título JSON",
+    "img": "./img/Foto_DicadaCEO.png",
+    "alt": "FOTO Juliana Innecco, Head de Inovação do Torq Labs",
+    "texto": [
+      "/“A inovação aberta tem como princípio a conexão entre players do ecossistema. Quando uma grande corporação estabelece sua estratégia de open innovation, procura no ecossistema experiências e soluções que complementam seus produtos e/ou que atacam oportunidades que ela enxerga no mercado. Ao se conectar com uma startup, a empresa consegue ter um time to market mais rápido, pivotar de forma mais ágil - se necessário - e ter um ganho importante de fomento à cultura de inovação interna.",
+      "A startup, por sua vez, desfruta do smart money, da experiência da grande corporação, do conhecimento de mercado, da tecnologia e da possibilidade de distribuição de seu produto. Essas conexões podem ajudar a startup a ganhar escala, fechar novos negócios e também atrair novos(as) investidores(as) para rodadas de captação./”"
+    ],
+    "linkedinAutora": "https://www.linkedin.com/in/juliana-innecco/",
+    "nomeAutora": " Juliana Innecco",
+    "descricaoAutora": "Head de Inovação do Torq Labs e Dealflow Leader na Sinqia"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/Imagem_ElasImpactam_N06.png",
+    "alt": "FOTO Luiza Trajano",
+    "texto": [
+      "Luiza Helena Trajano, a fundadora, presidente do conselho de administração e principal acionista da Magazine Luiza (que, na verdade, dispensa apresentações), é a única brasileira na lista de 100 mais influentes de 2021 da TIME.",
+      "A empresária está entre os destaques da categoria 'Titãs', que reúne profissionais que são referência em seus campos de atuação. Ao seu lado, estão nomes como a ginasta americana Simone Biles, a autora Shonda Rimes e o presidente-executivo da Apple, Tim Cook.",
+      "Entre outros feitos, a revista cita a iniciativa da Magazine Luiza em ajudar pequenas empresas a se adaptarem ao comércio digital no auge da pandemia do coronavírus, e a liderança de Luiza no Grupo Mulheres do Brasil, um de seus esforços para construir um Brasil melhor. Nosso país não poderia estar melhor representado, não é mesmo?"
+    ],
+    "textoLista": "texto lista JSON"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "https://weimpact-tech.github.io/newsletter-5/img/Imagem_NasMidias_N05.png",
+    "alt": "IMAGEM post",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
+    "linkBotao": "https://www.instagram.com/p/CTX8tUUPjE1/",
+    "botao": "Clique para conferir"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/NaRede_N06.png",
+    "alt": "IMAGEM post",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
+    "linkBotao": "https://www.instagram.com/p/CTX8tUUPjE1/",
+    "botao": "Clique para conferir"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://weimpact-1.hubspotpagebuilder.com/assine-a-we-impact-news?utm_source=Newletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram",
+    "siteSettingsCompanyName": "{{ site_settings.company_name }} -",
+    "siteSettingsCompanyStreetAddress": "{{ site_settings.company_street_address_1 }} -",
+    "siteSettingsCompanyCity": "{{ site_settings.company_city }} -",
+    "siteSettingsCompanyState": "{{ site_settings.company_state }} -"
+  }
+}
