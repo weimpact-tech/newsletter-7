@@ -25,9 +25,12 @@ var htmlContent =
   htmlWeImpactNetwork +
   htmlDiversidadeNaPratica +
   htmlDicadaCEO +
-  htmlElasImpactam +
-  htmlDivisor +
+  //htmlElasImpactam +
+  //htmlDivisor +
+  htmlNaMidia +
   htmlNasRedes +
+  //htmlDivisor +
+  //htmlSaveTheDate +
   htmlEndBody +
   htmlFooter;
 

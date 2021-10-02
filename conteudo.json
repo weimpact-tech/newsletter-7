@@ -3,7 +3,7 @@
   "artigoDestaque": {
     "numeroEdicao": "6",
     "mensagemSpam": "Não queremos ir para o spam! =( selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
-    "img": "./img/Imagem_Destaque.png",
+    "img": "./img/Imagem_Destaque_N07.png",
     "alt": "MAGEM Abertura da Chamada WE Impact + KPMG",
     "titulo": "Guarde esta data: 5 de outubro de 2021",
     "texto": [
@@ -25,7 +25,7 @@
   "weImpactNetwork": {
     "tituloSecao": "#WIN – WE Impact Network",
     "titulo": "Networking: a importância das conexões para o empreendedorismo",
-    "img": "./img/Foto_WIN.png",
+    "img": "./img/Foto_WIN_N07_ESPECIAL.png",
     "alt": "FOTO Laís Macedo, Lide Futuro",
     "linkedinAutora": "https://br.linkedin.com/in/naravazguimaraes",
     "nomeAutora": "Nome JSON",
@@ -43,7 +43,7 @@
   "diversidadeNaPratica": {
     "tituloSecao": "#DiversidadenaPrática",
     "titulo": "Título JSON",
-    "img": "./img/Imagem_DiversidadenaPratica_N06.png",
+    "img": "./img/Imagem_DiversidadenaPratica_N07.png",
     "alt": "alt",
     "texto": [
       "Analisando 100 fundos de Venture Capital nos EUA, o relatório Diversity in U.S. Startups 2020 mostrou que os avanços em tornar essas empresas mais diversas no país não foram tantos quando gostaríamos nos últimos 8 anos.",
@@ -61,7 +61,7 @@
   "dicaDaCEO": {
     "tituloSecao": "#DicadaCEO",
     "titulo": "Título JSON",
-    "img": "./img/Foto_DicadaCEO.png",
+    "img": "./img/Foto_DicadaCEO_N07_ESPECIAL.png",
     "alt": "FOTO Juliana Innecco, Head de Inovação do Torq Labs",
     "texto": [
       "/“A inovação aberta tem como princípio a conexão entre players do ecossistema. Quando uma grande corporação estabelece sua estratégia de open innovation, procura no ecossistema experiências e soluções que complementam seus produtos e/ou que atacam oportunidades que ela enxerga no mercado. Ao se conectar com uma startup, a empresa consegue ter um time to market mais rápido, pivotar de forma mais ágil - se necessário - e ter um ganho importante de fomento à cultura de inovação interna.",
@@ -84,7 +84,7 @@
   },
   "naMidia": {
     "tituloSecao": "#NaMídia",
-    "img": "https://weimpact-tech.github.io/newsletter-5/img/Imagem_NasMidias_N05.png",
+    "img": "./img/NasMidias_N07.png",
     "alt": "IMAGEM post",
     "titulo": "Perdeu esse conteúdo?",
     "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
@@ -93,7 +93,7 @@
   },
   "nasRedes": {
     "tituloSecao": "#NasRedes",
-    "img": "./img/NaRede_N06.png",
+    "img": "./img/NaRede_N07.png",
     "alt": "IMAGEM post",
     "titulo": "Perdeu esse conteúdo?",
     "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
