@@ -1,20 +1,22 @@
 {
-  "previa": "Já anota na agenda: 5 de outubro, às 17h30, uma grande oportunidade de captar investimento e se conectar com uma das big four consultorias do mundo.",
+  "previa": "Inscrições oficialmente abertas! Saiba como vai funcionar o processo seletivo, suas etapas e como participar.",
   "artigoDestaque": {
-    "numeroEdicao": "6",
+    "numeroEdicao": "7",
     "mensagemSpam": "Não queremos ir para o spam! =( selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
     "img": "./img/Imagem_Destaque_N07.png",
-    "alt": "MAGEM Abertura da Chamada WE Impact + KPMG",
-    "titulo": "Guarde esta data: 5 de outubro de 2021",
+    "alt": "IMAGEM Chamada WE Impact + KPMG ",
+    "titulo": "Inscrições abertas até 18 de outubro!",
     "texto": [
-      "Lembra que na WE Impact News #4 anunciamos o investimento de R$ 1 milhão da KPMG na WE Impact? Chegou a hora de destinar esse capital a startups fundadas e lideradas por mulheres!",
-      "No dia <strong>5 de outubro</strong>, abriremos a primeira <strong>chamada WE Impact + KPMG</strong> em um evento online, aberto ao público - e convidamos você a aproveitar essa grande oportunidade (<u>e também compartilhá-la com a sua rede de contatos!</u>).",
-      "Além do investimento financeiro, se tornar uma investida WE Impact significará ter conexão direta com <strong>uma das maiores empresas de auditoria e consultoria do mundo</strong> (e seus especialistas) para desenvolver seu produto e fechar negócios.",
-      "Para potencializar essa conexão, buscaremos startups que tenham <strong>sinergia</strong> com a KPMG, com as seguintes características:",
-      "AAAAAAAAAAAAA ADICIONAR LISTA !!!"
+      "Acabou a espera e a <strong>Chamada WE Impact + KPMG</strong> está oficialmente aberta! Todo o time WE Impact está muito animado para conhecer novas startups fundadas e lideradas por mulheres com grande potencial de inovação e crescimento.",
+      "<strong>Como vai funcionar:</strong>",
+      "1) Antes de se inscrever, é muito importante ler o regulamento da Chamada! Depois, é só preencher e enviar o formulário e aguardar a confirmação da inscrição, que chegará por email.",
+      "2) Após o período de inscrições, avaliaremos todos as startups inscritas de acordo com critérios como base tecnológica, maturidade do produto, consistência do modelo de negócio, solidez da equipe, diversidade e, claro, sinergia com a KPMG. Até 12 de novembro, informaremos se o seu negócio foi ou não selecionado para a próxima etapa.",
+      "3) Na sequência, acontecerá a Pitch Week: uma oportunidade para as startups selecionadas contarem mais sobre sua solução, time e outros aspectos importantes para a decisão de investimento ao júri da Chamada, composto por especialistas da WE Impact, da KPMG e do ecossistema.",
+      "4) As startups selecionadas após a Pitch Week estarão elegíveis a receber investimento. A partir daí, se inicia o processo de negociação para assinatura do contrato com a WE Impact!",
+      "Ficou interessada e quer inscrever sua startup? Clique no botão abaixo para mais informações:"
     ],
-    "linkBotao": "https://conteudo.weimpact.tech/abertura-chamada-kpmg",
-    "botao": "Quero participar"
+    "linkBotao": "https://conteudo.weimpact.tech/chamada-kpmg",
+    "botao": "Ir para a página da Chamada"
   },
   "compartilhe": {
     "texto": [
@@ -24,30 +26,33 @@
   },
   "weImpactNetwork": {
     "tituloSecao": "#WIN – WE Impact Network",
-    "titulo": "Networking: a importância das conexões para o empreendedorismo",
+    "titulo": "Construindo um futuro inclusivo no ecossistema brasileiro de startups",
     "img": "./img/Foto_WIN_N07_ESPECIAL.png",
-    "alt": "FOTO Laís Macedo, Lide Futuro",
+    "alt": "FOTO Carolina de Oliveira, KPMG",
     "linkedinAutora": "https://br.linkedin.com/in/naravazguimaraes",
-    "nomeAutora": "Nome JSON",
-    "descricaoAutora": "descrição JSON",
+    "nomeAutora": "Carolina de Oliveira",
+    "descricaoAutora": " sócia-diretora de Private Enterprise da KPMG no Brasil e na América do Sul",
     "texto": [
-      "O networking é uma ferramenta essencial para quem deseja trabalhar o marketing pessoal, ter acesso a oportunidades, informações e construir uma rede de apoio durante sua jornada empreendedora.",
-      "Mesmo conhecendo seus inúmeros benefícios, muitas pessoas ainda possuem dificuldade em fazer contatos e gerir sua rede.",
-      "Por isso, convidamos a presidente do LIDE Futuro (grupo de networking de empreendedores e líderes), Laís Macedo, para compartilhar dicas valiosas que vão te ajudar durante esse processo - incluindo como lidar com a síndrome da impostora e outros obstáculos enfrentados por mulheres na hora de fazer netowrking."
+      "Mais do que promover a diversidade em seu próprio ambiente interno – o que, aliás, ela já faz por meio de inúmeras iniciativas de inclusão de mulheres, negros e negras, pessoas com deficiência (PCDs) e pessoas LGBTQIA+ –, a KPMG no Brasil acaba de dar um passo além no sentido de fomentar o empreendedorismo feminino no ecossistema de startups. Por meio do projeto que inclui o investimento de R$ 1 milhão, a KPMG anunciou recentemente seu apoio institucional a WE Impact.",
+      "Com isso, a KPMG reafirma, dentre suas pares globais (vale lembrar que a KPMG hoje está presente em 146 países), seu compromisso de oferecer estímulo às mulheres que desejam empreender em startups de tecnologia.",
+      "Mas não se trata só de investimento financeiro. A KPMG também proporcionará, por meio de seus profissionais altamente qualificados, o smart money, ou seja: mentorias, compartilhamento de conteúdo, realização de eventos e contribuição com sua expertise e seu conhecimento de elevado padrão para o sucesso desses empreendimentos e para o desenvolvimento e fortalecimento de seu growth mindset.",
+      "E por que startups lideradas por mulheres? A resposta é simples..."
     ],
     "tituloLista": "título lista JSON",
     "textoLista": "texto lista JSON",
-    "linkBotao": "https://www.weimpact.tech/networking-importancia-das-conexoes",
-    "botao": "Clique para ler a entrevista"
+    "linkBotao": "https://www.weimpact.tech/inclusao-no-ecossistema-de-startups-kpmg/",
+    "botao": "Continue lendo"
   },
   "diversidadeNaPratica": {
     "tituloSecao": "#DiversidadenaPrática",
-    "titulo": "Título JSON",
+    "titulo": "Quem não ama um bom playbook?",
     "img": "./img/Imagem_DiversidadenaPratica_N07.png",
-    "alt": "alt",
+    "alt": "ILUSTRAÇÃO",
     "texto": [
-      "Analisando 100 fundos de Venture Capital nos EUA, o relatório Diversity in U.S. Startups 2020 mostrou que os avanços em tornar essas empresas mais diversas no país não foram tantos quando gostaríamos nos últimos 8 anos.",
-      "A partir do estudo de mais de 3 mil empresas e cerca de 7,7 mil fundadores que participaram de mais de 4 mil rodadas, aqui estão alguns números levantados:"
+      "ESG é mais um daqueles termos que a maioria das pessoas sabem o que é por definição, mas ficam cheias de dúvidas na hora colocar em prática.",
+      "Pois bem, o BR Angels, grupo de investidores anjo formado por CEOs e empreendedores que é parceiro da WE Impact, lançou recentemente um playbook para apoiar justamente essa tarefa, e o melhor: totalmente pensado para startups.",
+      "O material busca ajudar as empresas do ecossistema a empregarem uma governança transparente, diversa e inclusiva, agregando valor ao negócio nas dimensões ambiental, social (é bem aqui que entra a diversidade) e governança.",
+      "A inspiração são práticas ESG já adotadas em várias outras empresas nacionais e multinacionais. Baixe aqui."
     ],
     "tituloLista": "título lista JSON",
     "textoLista": [
@@ -62,14 +67,14 @@
     "tituloSecao": "#DicadaCEO",
     "titulo": "Título JSON",
     "img": "./img/Foto_DicadaCEO_N07_ESPECIAL.png",
-    "alt": "FOTO Juliana Innecco, Head de Inovação do Torq Labs",
+    "alt": "FOTO Lícia Souza, CEO da WE Impact",
     "texto": [
-      "/“A inovação aberta tem como princípio a conexão entre players do ecossistema. Quando uma grande corporação estabelece sua estratégia de open innovation, procura no ecossistema experiências e soluções que complementam seus produtos e/ou que atacam oportunidades que ela enxerga no mercado. Ao se conectar com uma startup, a empresa consegue ter um time to market mais rápido, pivotar de forma mais ágil - se necessário - e ter um ganho importante de fomento à cultura de inovação interna.",
-      "A startup, por sua vez, desfruta do smart money, da experiência da grande corporação, do conhecimento de mercado, da tecnologia e da possibilidade de distribuição de seu produto. Essas conexões podem ajudar a startup a ganhar escala, fechar novos negócios e também atrair novos(as) investidores(as) para rodadas de captação./”"
+      "\"A jornada de uma startup é extremamente tortuosa e, em conjunto com a KPMG e toda a nossa rede, queremos construir pontes para que mulheres líderes e empreendedoras trilhem um caminho rumo ao sucesso.",
+      "Acreditamos na geração de valor por meio do relacionamento, e é por isso que vamos muito além do investimento financeiro. Fazer parte do nosso portfólio significa ter também acesso a grandes empresas especialistas em tecnologia (e diversas outras áreas de atuação) prontas para apoiar o desenvolvimento do produto da startup, da tecnologia empregada, do time e de suas estratégias de crescimento.\""
     ],
-    "linkedinAutora": "https://www.linkedin.com/in/juliana-innecco/",
-    "nomeAutora": " Juliana Innecco",
-    "descricaoAutora": "Head de Inovação do Torq Labs e Dealflow Leader na Sinqia"
+    "linkedinAutora": "https://www.linkedin.com/in/souzalicia",
+    "nomeAutora": "Lícia Souza",
+    "descricaoAutora": "fundadora e CEO da WE Impact, sobre a Chamada WE Impact + KPMG"
   },
   "elasImpactam": {
     "tituloSecao": "#ElasImpactam",
@@ -85,19 +90,19 @@
   "naMidia": {
     "tituloSecao": "#NaMídia",
     "img": "./img/NasMidias_N07.png",
-    "alt": "IMAGEM post",
+    "alt": "IMAGEM matéria",
     "titulo": "Perdeu esse conteúdo?",
-    "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
-    "linkBotao": "https://www.instagram.com/p/CTX8tUUPjE1/",
-    "botao": "Clique para conferir"
+    "texto": "A Microsoft, mais uma grande líder que integra a WE Impact Network, registrou o convite para a abertura da Chamada WE Impact + KPMG, que aconteceu nesta terça, 5 de outubro. Se você perdeu o encontro, ainda pode assistir à gravação clicando no link do evento.",
+    "linkBotao": "https://news.microsoft.com/pt-br/we-impact-e-kpmg-abrem-chamada-para-startups-de-tecnologia-lideradas-por-mulheres/",
+    "botao": "Leia a matéria"
   },
   "nasRedes": {
     "tituloSecao": "#NasRedes",
     "img": "./img/NaRede_N07.png",
     "alt": "IMAGEM post",
     "titulo": "Perdeu esse conteúdo?",
-    "texto": "Se você tem dificuldade de separar a vida pessoal do horário de trabalho no home office, você não está sozinha(o) - 40% dos brasileiros compartilham esse desafio com você. No nosso Instagram, compartilhamos um checklist que pode te ajudar a “desconectar” após o expediente.",
-    "linkBotao": "https://www.instagram.com/p/CTX8tUUPjE1/",
+    "texto": "O mundo corporativo vem enfrentando o desafio de se adaptar a mudanças rápidas, e diversas dores surgem no caminho. Está cada vez mais evidente que é preciso inovar, e há um forte movimento de busca pela conexão com startups para resolver essas dores. No blog da WE Impact, publicamos uma super lista com 9 áreas que estão se destacando nesse cenário e devem entrar no radar das empreendedoras!",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:6848714609101168640",
     "botao": "Clique para conferir"
   },
   "saveTheDate": {
